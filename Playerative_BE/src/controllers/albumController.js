@@ -12,5 +12,5 @@ const listAlbum = async (req, res) => {
 const removeAlbum = async (req, res) => {
 
 }
-dd
+
 export {addAlbum, listAlbum, removeAlbum}
